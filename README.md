@@ -4,8 +4,11 @@
 
 Buch-Alchemist ist ein kreativer Partner, der Nutzer durch einen geführten, fast schon heiligen Schöpfungsprozess leitet. Die App transformiert bloße Story-Ideen in wunderschön geschriebene und professionell strukturierte Bücher, indem sie die Kraft moderner KI-Sprachmodelle nutzt.
 
-![Screenshot of Buch-Alchemist Reader](./docs/screenshot.png) 
-*(Hinweis: Fügen Sie hier einen Screenshot oder ein GIF der App hinzu)*
+<p align="center">
+  <img alt="Willkommensbildschirm von Buch-Alchemist" src="./docs/welcome-screen.png" width="49%">
+  &nbsp;
+  <img alt="Der Schöpfungsprozess im Buch-Alchemist" src="./docs/wizard-screen.png" width="49%">
+</p>
 
 ---
 
