@@ -1,0 +1,5 @@
+{
+  "name": "Buch-Alchemist",
+  "description": "A creative partner that guides users through a sacred creation process, transforming their story ideas into beautifully written and professionally structured books using the Gemini API.",
+  "requestFramePermissions": []
+}
